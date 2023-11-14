@@ -1,0 +1,1 @@
+# vite-plugin-remix-i18n
